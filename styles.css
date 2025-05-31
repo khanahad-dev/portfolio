@@ -1,0 +1,52 @@
+
+#logo {
+    max-width: 70px;
+    height: auto;
+}
+#icon {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.contact-box {
+    padding: 30px;
+    border-radius: 8px;
+    background-color: rgb(43, 42, 42);
+    width: 100%;
+    max-width: 600px;
+}
+
+#img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+#logo {
+  margin-left: 0;
+}
+
+@media (min-width: 992px) {
+  #img {
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: 200px;
+  }
+
+  #logo {
+    margin-right: 100px;
+  }
+  /* #navbarNav {
+    justify-content: center;
+    align-items: center;
+  } */
+}
+
+
+#cardEdu {
+    padding: 30px;
+    border-radius: 8px;
+    background-color: rgb(43, 42, 42);
+    width: 100%;
+    max-width: 500px;
+}
+
